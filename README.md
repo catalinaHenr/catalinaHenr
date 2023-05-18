@@ -10,7 +10,7 @@ Soy una estudiante de analista programador.
 
 - Herramientas :
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,docker,sublime)](https://skillicons.dev)
 
 <!---
 catalinaHenr/catalinaHenr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
