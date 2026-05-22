@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-Soy una estudiante de analista programador.
-
-- 🌱 Actualmente estoy aprendiendo Vue.js
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
